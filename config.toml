@@ -2,3 +2,6 @@ baseURL = 'http://www.ulni.net/'
 languageCode = 'en-us'
 title = 'ulni.net'
 theme = 'hyde'
+
+[params]
+  description = 'Life and opinions of Ulf Nilsson'
